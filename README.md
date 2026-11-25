@@ -36,15 +36,3 @@ or reporting an issue?
 Join our official Discord community.
 
 [Discord](YOUR_DISCORD_LINK)
-
----
-
-<div align="center">
-
-**VELTRIXA SCRIPTS**
-
-Quality. Performance. Innovation.
-
-Copyright © 2026 Veltrixa Scripts
-
-</div>
