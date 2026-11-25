@@ -33,30 +33,6 @@ designed to improve your server experience.
 - English and Czech localization
 - Framework integration
 
-## Requirements
-
-- FiveM Server
-- ESX Legacy
-- ox_lib
-- oxmysql (if required)
-
-## Installation
-
-1. Download the resource.
-2. Place the resource into your resources folder.
-3. Configure the `config.lua` file.
-4. Import the SQL file if required.
-5. Add the resource to your `server.cfg`.
-
-    ensure vx_scriptname
-
-6. Restart your server.
-
-## Configuration
-
-All available settings can be modified in
-the `config.lua` file.
-
 ## Localization
 
 - English (EN)
@@ -70,11 +46,6 @@ or reporting an issue?
 Join our official Discord community.
 
 [Discord](YOUR_DISCORD_LINK)
-
-## License
-
-This resource is distributed under the license
-included with the resource.
 
 ---
 
