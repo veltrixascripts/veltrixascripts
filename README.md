@@ -23,11 +23,6 @@ modern design and an exceptional player experience.
 A FiveM resource developed by Veltrixa Scripts,
 designed to improve your server experience.
 
-## Localization
-
-- English (EN)
-- Czech (CS)
-
 ## Support
 
 Need help with installation, configuration
