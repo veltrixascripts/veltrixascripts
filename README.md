@@ -1,6 +1,6 @@
 <div align="center">
 
-# VELTRIXA SCRIPTS
+# WQZX
 
 **Modern FiveM Development**
 
@@ -20,7 +20,7 @@ modern design and an exceptional player experience.
 
 ## Overview
 
-A FiveM resource developed by Veltrixa Scripts,
+A FiveM resource developed by WQZX,
 designed to improve your server experience.
 
 ## Support
@@ -28,6 +28,6 @@ designed to improve your server experience.
 Need help with installation, configuration
 or reporting an issue?
 
-Join our official Discord community.
+Join my official Discord community.
 
 [Discord](YOUR_DISCORD_LINK)
