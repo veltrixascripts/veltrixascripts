@@ -18,11 +18,6 @@ modern design and an exceptional player experience.
 
 </div>
 
-## Overview
-
-A FiveM resource developed by WQZX,
-designed to improve your server experience.
-
 ## Support
 
 Need help with installation, configuration
