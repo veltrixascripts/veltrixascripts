@@ -30,4 +30,4 @@ or reporting an issue?
 
 Join my official Discord community.
 
-[Discord](YOUR_DISCORD_LINK)
+[Discord](https://discord.gg/PcfCCGdAuZ)
